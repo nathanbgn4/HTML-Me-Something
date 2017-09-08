@@ -1,0 +1,20 @@
+p {
+	margin-left: 5px; font-size: 20px;
+	padding: 5px;
+}
+
+#mainBody {
+	text-align: center;
+	font-family: "Times New Roman";
+	background-color: #ff6666;
+}
+
+
+.photo {
+	border: 5px solid black;
+	width: 700px; height: 400px;
+}
+
+section {
+	background-color: #cc6600;
+}
